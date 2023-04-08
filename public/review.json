@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Winson Herry",
+      "description": "I am blown away by the service I received from Amazon. I ordered a product and it arrived within two days. The product was exactly what I expected and the customer service was top-notch",
+      "location": "California",
+      "img": "https://i.ibb.co/CKqnNRw/people1.png"
+    },
+    {
+      "id": 2,
+      "name": "Jenifar lamba",
+      "description": "I love my Nike shoes! They are comfortable, durable and provide great support during my workouts. The design is stylish and the quality is excellent. I highly recommend them!",
+      "location": "New York",
+      "img": "https://i.ibb.co/9YBZtwH/People2.png"
+    },
+    {
+      "id": 3,
+      "name": "safia jenny",
+      "description": "I have been using my iPhone for over a year now and I am extremely satisfied with its performance. The camera quality is excellent and the battery life is great. The overall design is sleek and user-friendly",
+      "location": "London",
+      "img": "https://i.ibb.co/d6K6Vgw/people3.png"
+    }
+  ]
