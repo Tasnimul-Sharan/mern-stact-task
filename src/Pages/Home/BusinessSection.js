@@ -2,7 +2,20 @@ import React from "react";
 
 const BusinessSection = () => {
   return (
-    <div className="mt-24 px-2 my-28">
+    <div
+      //   data-aos="fade-up"
+      // //   data-aos-offset="200"
+      //   data-aos-delay="50"
+      //   data-aos-duration="1000"
+      //   data-aos-easing="ease-in-out"
+      //   data-aos-mirror="true"
+      //   data-aos-once="false"
+      //   data-aos-anchor-placement="top-center"
+      data-aos="flip-left"
+      //   data-aos-easing="ease-out-cubic"
+      data-aos-duration="2000"
+      className="mt-24 px-2 my-28"
+    >
       <h2 className="text-3xl text-center font-bold">
         Worldwide Business Trust Us
       </h2>

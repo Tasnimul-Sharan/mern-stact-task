@@ -10,7 +10,12 @@ const Reviews = () => {
   }, []);
 
   return (
-    <div className="container mx-auto">
+    <div
+      data-aos="fade-right"
+      data-aos-offset="300"
+      data-aos-easing="ease-in-sine"
+      className="container mx-auto"
+    >
       <h1 className="text-5xl text-">Testimonials</h1>
       <h1 className="text-4xl mb-10 text-orange-700">
         What our customer say about us
